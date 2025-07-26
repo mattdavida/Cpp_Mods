@@ -1,0 +1,40 @@
+# UE4SS Framework (install separately - see README)
+RE-UE4SS/
+
+# Build artifacts
+Binaries/
+Intermediates/
+build/
+.xmake/
+vsxmake2022/
+
+# Visual Studio / Build system
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+*.exe
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# IDE files
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
