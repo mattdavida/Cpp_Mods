@@ -65,7 +65,7 @@
         }
     }
 
-    class NewModExampleMod : public RC::CppUserModBase
+    class StellarBladeMod : public RC::CppUserModBase
     {
     private:
         bool m_ModInitialized = false;
@@ -369,7 +369,7 @@
         bool m_god_mode_enabled = false;
 
     public:
-        NewModExampleMod() : CppUserModBase()
+        StellarBladeMod() : CppUserModBase()
         {
             ModName = STR("StellarBlade Rewards");
             ModVersion = STR("1.0");
@@ -391,7 +391,7 @@
             
             // Register ImGui tab after UI is initialized
             register_tab(STR("Stellar Blade Rewards"), [](CppUserModBase* instance) {
-                auto mod = dynamic_cast<NewModExampleMod*>(instance);
+                auto mod = dynamic_cast<StellarBladeMod*>(instance);
                 if (mod)
                 {
                     mod->RenderModUI();
@@ -1418,21 +1418,21 @@
             }
         }
 
-        ~NewModExampleMod() override
+        ~StellarBladeMod() override
         {
             Output::send<LogLevel::Verbose>(STR("[SHUTDOWN] NewModExample shutting down\n"));
         }
     };
 
-    #define NEW_MOD_EXAMPLE_MOD_API __declspec(dllexport)
+    #define STELLAR_BLADE_MOD_API __declspec(dllexport)
     extern "C"
     {
-        NEW_MOD_EXAMPLE_MOD_API RC::CppUserModBase* start_mod()
+        STELLAR_BLADE_MOD_API RC::CppUserModBase* start_mod()
         {
-            return new NewModExampleMod();
+            return new StellarBladeMod();
         }
 
-        NEW_MOD_EXAMPLE_MOD_API void uninstall_mod(RC::CppUserModBase* mod)
+        STELLAR_BLADE_MOD_API void uninstall_mod(RC::CppUserModBase* mod)
         {
             delete mod;
         }
