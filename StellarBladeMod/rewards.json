@@ -1,0 +1,7610 @@
+[
+    {
+        "reward": "e_tumbler_core_test",
+        "itemAlias": "TumblerCore"
+    },
+    {
+        "reward": "IED_Direct",
+        "itemAlias": "EQ_Item_IED"
+    },
+    {
+        "reward": "EmptyRG",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Legion_Beach",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Drown",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Xion",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_WasteLand",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_AltesLabor",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Matrix11",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Desert",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_AbyssLabor",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Eidos9",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Elevator",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Legion_Nest",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "VendingMachine_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "VendingMachine_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "VendingMachine_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Car_Hit_DropItem",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "LionStatue_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "LionStatue_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "LionStatue_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "WomanStatue_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "WomanStatue_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "WomanStatue_Hit_DropItem",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Clyde_BaseItem",
+        "itemAlias": "FishingRod"
+    },
+    {
+        "reward": "Quest_Clyde_BaseItem",
+        "itemAlias": "Item_Shrimp_Bait"
+    },
+    {
+        "reward": "Prop_Interact_Reward",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "BuddhaStatue_Destruction_Reward",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "BuddhaStatue_Destruction_Reward",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "BuddhaStatue_Destruction_Reward",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "BuddhaStatue_Destruction_Reward",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "CommonGroup_b_GoldBox1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "CommonGroup_b_GoldBox1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_GoldBox1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_GoldBox1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_GoldBox1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "subGroup_b_GoldBox1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "CommonGroup_b_GoldBox2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "CommonGroup_b_GoldBox2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_GoldBox2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_GoldBox2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_GoldBox2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "subGroup_b_GoldBox2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_Gear1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_Gear1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_Gear1",
+        "itemAlias": "GearCore"
+    },
+    {
+        "reward": "b_goldbox_Gear1",
+        "itemAlias": "GearCore"
+    },
+    {
+        "reward": "b_goldbox_Gear2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_Gear2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_Gear2",
+        "itemAlias": "GearCore"
+    },
+    {
+        "reward": "b_goldbox_Gear2",
+        "itemAlias": "GearCore"
+    },
+    {
+        "reward": "b_goldbox_WBPump",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_WBPump",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "b_goldbox_material_Middle1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_material_Middle1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_material_Middle2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_Middle2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_material_High1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_material_High2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_goldbox_material_High2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_fiber_Middle2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_goldbox_fiber_High1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_fiber_High1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_goldbox_fiber_High1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_fiber_High1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_goldbox_fiber_High1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_goldbox_fiber_High2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_fiber_High2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_goldbox_fiber_High2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_goldbox_fiber_High2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_goldbox_fiber_High2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_goldbox_JunkIron",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_goldbox_JunkIron",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "b_goldbox_JunkIron",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "b_goldbox_JunkIron",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "subGroup_b_standard_Common1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Common1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Common1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Material1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_standard_Material1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_standard_Material1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "subGroup_b_standard_Material1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "subGroup_b_standard_Common2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Common2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Common2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Material2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_standard_Material2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_standard_Material2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "subGroup_b_standard_Material2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "subGroup_b_standard_SPinitializer",
+        "itemAlias": "SPinitializer"
+    },
+    {
+        "reward": "CommonGroup_b_standard_Gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "CommonGroup_b_standard_Gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_b_standard_Consume",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "b_Beach_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Beach_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Beach_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Beach_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_drown_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_drown_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_drown_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Wasteland_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Wasteland_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Wasteland_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Wasteland_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Matrix11_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Matrix11_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Matrix11_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Matrix11_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Desert_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Desert_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Desert_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Desert_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Eidos9_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Eidos9_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Eidos9_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Elevator_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Elevator_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Elevator_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Elevator_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Nest_standard_gold",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Nest_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Nest_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_Nest_standard_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_standard_material_Low1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_material_Low1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_standard_material_Low1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_standard_material_Low1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_standard_material_Low1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_standard_material_Low2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_material_Low2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_standard_material_Low2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_standard_material_Low2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_standard_material_Low2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_standard_fiber_Low1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_fiber_Low1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_standard_fiber_Low1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_standard_fiber_Low1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_standard_fiber_Low1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_standard_fiber_Low2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_fiber_Low2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_standard_fiber_Low2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_standard_fiber_Low2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_standard_fiber_Low2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_standard_grenade1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_grenade1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_grenade2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_grenade2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_grenade3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_grenade3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade1",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade2",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade2",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade2",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade2",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade2",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade3",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade3",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade3",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade3",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "subGroup_b_standard_grenade3",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "b_standard_Bullet_Random",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_Bullet_Random",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_Bullet_Random",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_b_standard_Bullet_Random",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_b_standard_Bullet_Random",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_b_standard_Bullet_Random",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_b_standard_Bullet_Random",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "b_standard_potion",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_standard_potion",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_b_standard_potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "subGroup_b_standard_potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "subGroup_b_standard_potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_gold",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_sealed_material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_sealed_fiber",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_100_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_before_RangeMode_destruct_reward_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Plus_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Plus_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Plus_Group",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_destruct_100_Plus_Group",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_b_destruct_BetaCrystal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_b_destruct_ditCoin",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "subGroup_b_destruct_Potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "subGroup_b_destruct_Potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "subGroup_b_destruct_EquipMaterial",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_destruct_EquipMaterial",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_destruct_EquipMaterial",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "subGroup_b_destruct_FiberMaterial",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "subGroup_b_destruct_FiberMaterial",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "subGroup_b_destruct_FiberMaterial",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "subGroup_b_destruct_EquipMaterial_ForNest",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_destruct_EquipMaterial_ForNest",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "subGroup_b_destruct_EquipMaterial_ForNest",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "subGroup_b_destruct_FiberMaterial_ForNest",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "subGroup_b_destruct_FiberMaterial_ForNest",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "subGroup_b_destruct_FiberMaterial_ForNest",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "subGroup_b_destruct_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_b_destruct_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_b_destruct_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_b_destruct_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_b_destruct_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "b_drown_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_destruct100",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_destruct100",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_altesLabor_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_altesLabor_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_altesLabor_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_destruct100",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_destruct100",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abyssLabor_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abyssLabor_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abyssLabor_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_eidos9_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_eidos9_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_eidos9_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_nest_destruct_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_nest_destruct_reward_Plus",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_RangeMode_Tutorial_reward",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_RangeMode_Tutorial_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_RangeMode_Tutorial_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_RangeMode_Tutorial_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_RangeMode_Tutorial_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_RangeMode_Tutorial_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_RangeMode_Tutorial_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "b_RangePuzzle_Bullet_reward",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_global_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_global_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_global_Normal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_global_Normal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_global_Normal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_global_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_global_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_global_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_global_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_global_animal_potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "subGroup_global_animal_potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "subGroup_global_Normal_potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "subGroup_global_Normal_potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "subGroup_global_Normal3_potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "subGroup_global_Normal3_potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "subGroup_global_Normal_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_global_Normal_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_global_Normal_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_global_Normal_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_global_Normal3_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_global_Normal3_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_global_Normal3_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_global_Normal3_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_global_Normal3_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "subGroup_FA_Animal_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_FA_Normal_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_FA_Normal_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_FA_Normal_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_FA_Normal_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_FA_Normal3_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_FA_Normal3_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_FA_Normal3_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_FA_Normal3_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_FA_Normal3_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "subGroup_FA_BodyBag_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_FA_BodyBag_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_FA_BodyBag_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_FA_BodyBag_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_FA_BodyBag_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_animal",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_animal",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_animal",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal3",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal3",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "subGroup_WLAB_Robot_Normal3",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "subGroup_WLAB_ETC",
+        "itemAlias": "Item_Lure_Weird"
+    },
+    {
+        "reward": "Tutorial_ItemDrop",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Tutorial_ItemDrop",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "subGroup_Night_Animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_Night_Animal",
+        "itemAlias": "Money_NightOperation"
+    },
+    {
+        "reward": "subGroup_Night_Normal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_Night_Normal",
+        "itemAlias": "Money_NightOperation"
+    },
+    {
+        "reward": "subGroup_Night_Normal",
+        "itemAlias": "Money_NightOperation"
+    },
+    {
+        "reward": "subGroup_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "subGroup_Night_Normal3",
+        "itemAlias": "Money_NightOperation"
+    },
+    {
+        "reward": "subGroup_Night_Normal3",
+        "itemAlias": "Money_NightOperation"
+    },
+    {
+        "reward": "subGroup_Night_Normal3",
+        "itemAlias": "Money_NightOperation"
+    },
+    {
+        "reward": "subGroup_SD_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SD_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SD_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SD_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DED_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DED_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DED_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DED_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLA_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLA_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLA_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLA_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ATL_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ATL_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ATL_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ATL_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ME_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ME_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ME_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_ME_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLB_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLB_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLB_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_WLB_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_AYL_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_AYL_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_AYL_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_AYL_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DEDA_Animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DEDA_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DEDA_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_DEDA_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SE_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SE_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SE_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_SE_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SD_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SD_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SD_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SD_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DED_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DED_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DED_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DED_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLA_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLA_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLA_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLA_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ATL_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ATL_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ATL_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ATL_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ME_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ME_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ME_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_ME_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLB_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLB_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLB_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_WLB_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_AYL_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_AYL_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_AYL_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_AYL_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DEDA_Animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DEDA_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DEDA_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_DEDA_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SE_animal_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SE_Normal1_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SE_Normal2_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Night_SE_Normal3_SPExp",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_beach_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_beach_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_beach_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_beach_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_Night_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_drown_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_wasteland_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_altesLabor_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal3_RoadBlock",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Normal3_RoadBlock",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal3_RoadBlock",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Normal3_RoadBlock",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_Night_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_matrix11_Night_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_Desert_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_desert_Robot_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_abyssLabor_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_animal",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_animal",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal1_Missile",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal1_Missile",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal1_Missile",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal1_Missile",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal3_Missile",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal3_Missile",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3_Missile",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3_Missile",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3_Missile",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal3_RoadBlock",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_elevator_Normal3_RoadBlock",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3_RoadBlock",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_Normal3_RoadBlock",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_beach_elite1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "Gear_BetaGaugeAdditiveRate_Common"
+    },
+    {
+        "reward": "m_drown_elite1",
+        "itemAlias": "Gear_MeleeRangeDamageReductionRate_Common"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "Gear_MeleeAttackDamageReductionRate_Common"
+    },
+    {
+        "reward": "m_drown_elite2",
+        "itemAlias": "Gear_ShieldAttackPowerRate_Common"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "Gear_CriticalPercentage_Common"
+    },
+    {
+        "reward": "m_drown_boss",
+        "itemAlias": "Gear_MaxShield_Common"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "WeaponCore_Damaged"
+    },
+    {
+        "reward": "m_wasteland_elite1",
+        "itemAlias": "Gear_KillEnemyAdditiveDamageRate_Common"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "WeaponCore_Damaged"
+    },
+    {
+        "reward": "m_wasteland_elite2",
+        "itemAlias": "Gear_HighHpDamageAdditiveRate_Common"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "WeaponCore_Damaged"
+    },
+    {
+        "reward": "m_wasteland_elite3",
+        "itemAlias": "Gear_GainBetaGaugeValueOnDamaged_Common"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "Gear_BetaGaugeAdditiveRate_Uncommon"
+    },
+    {
+        "reward": "m_altesLabor_elite1",
+        "itemAlias": "Gear_ShieldIgnorePercentage_Common"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "Gear_MaxShield_Rare"
+    },
+    {
+        "reward": "m_matrix11_elite1",
+        "itemAlias": "Gear_BurstGaugeAdditiveRate_Common"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "Gear_AdditiveBetaSkillDamage_Uncommon"
+    },
+    {
+        "reward": "m_matrix11_elite2",
+        "itemAlias": "Gear_CriticalPercentage_Uncommon"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "Gear_MaxBurstGauge_Uncommon"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "Gear_KillEnemyHealHP_Rare"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_matrix11_boss",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "WeaponCore_Damaged"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "Gear_KillEnemyAdditiveDamageRate_Uncommon"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SQ_042_Item_MemoryStick_Yo"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SQ_042_Item_MemoryStick_Ryu"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SQ_042_Item_MemoryStick_So"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SQ_042_Item_MemoryStick_Rune"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SQ_042_Item_MemoryStick_Mel"
+    },
+    {
+        "reward": "m_Desert_elite1",
+        "itemAlias": "SQ_042_Item_MemoryStick_Ran"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "WeaponCore_Damaged"
+    },
+    {
+        "reward": "m_Desert_elite2",
+        "itemAlias": "Gear_GainBurstGaugeValueOnDamaged_Common"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "WeaponCore_Damaged"
+    },
+    {
+        "reward": "m_Desert_elite3",
+        "itemAlias": "Gear_AdditiveGiveAndReciveDamageRate_Uncommon"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "Gear_CriticalValueRate_Uncommon"
+    },
+    {
+        "reward": "m_abyssLabor_elite1",
+        "itemAlias": "Gear_BurstGaugeAdditiveRate_Uncommon"
+    },
+    {
+        "reward": "m_eidos9_elite1_A",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_elite1_B",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "Gear_GainBurstGaugeValueOnDamaged_Uncommon"
+    },
+    {
+        "reward": "m_eidos9_elite1_Group",
+        "itemAlias": "Gear_AdditiveGiveAndReciveDamageRate_Rare"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "Gear_ShieldAttackPowerRate_Rare"
+    },
+    {
+        "reward": "m_elevator_elite1",
+        "itemAlias": "Gear_RangeAttackDamageAdditiveRate_Rare"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "Gear_AdditiveFixedDamage_Rare"
+    },
+    {
+        "reward": "m_elevator_elite2",
+        "itemAlias": "Gear_RangeAttackDamageReductionRate_Rare"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "Gear_GainBurstGaugeValueOnDamaged_Rare"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "Gear_BetaGaugeAdditiveRate_Rare"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_elevator_boss",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "Gear_ComboAttackAdditiveDamage_Rare"
+    },
+    {
+        "reward": "m_xion_boss1",
+        "itemAlias": "Gear_AttackSpeed_Rare"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "Gear_ShieldIgnorePercentage_Rare"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "Gear_MaxBurstGauge_Rare"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "m_xion_boss2",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "subGroup_Raven_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "subGroup_Raven_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "subGroup_Raven_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "subGroup_Raven_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "subGroup_Raven_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "m_nest_boss1",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "m_nest_boss1",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "m_nest_boss1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "m_nest_boss1",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "m_nest_boss1",
+        "itemAlias": "WeaponCore"
+    },
+    {
+        "reward": "CommonGroup_e_TumlberDrone",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "CommonGroup_e_TumlberDrone",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "CommonGroup_e_TumlberDrone",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "CommonGroup_e_TumlberDrone",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_tumblercore",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_tumblercore",
+        "itemAlias": "TumblerCore"
+    },
+    {
+        "reward": "e_tumbler_dronecore",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_dronecore",
+        "itemAlias": "DroneCore"
+    },
+    {
+        "reward": "e_tumbler_dronecore",
+        "itemAlias": "DroneCore"
+    },
+    {
+        "reward": "e_tumbler_Data_1",
+        "itemAlias": "SQ_Item_Mindmap_Part3"
+    },
+    {
+        "reward": "e_tumbler_Data_1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_2",
+        "itemAlias": "Item_Records_Xion_Passcode_03"
+    },
+    {
+        "reward": "e_tumbler_Data_2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_3",
+        "itemAlias": "SQ_Item_Mindmap_Part4"
+    },
+    {
+        "reward": "e_tumbler_Data_3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_4",
+        "itemAlias": "SQ_Item_Mindmap_Part5"
+    },
+    {
+        "reward": "e_tumbler_Data_4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_5",
+        "itemAlias": "Item_Records_ETC_Memory_08"
+    },
+    {
+        "reward": "e_tumbler_Data_5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_7",
+        "itemAlias": "Item_Records_ATL_Memory_04"
+    },
+    {
+        "reward": "e_tumbler_Data_7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_8",
+        "itemAlias": "Item_Records_ME01_Memory_07"
+    },
+    {
+        "reward": "e_tumbler_Data_8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_9",
+        "itemAlias": "Item_Records_Xion_Passcode_08"
+    },
+    {
+        "reward": "e_tumbler_Data_9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_10",
+        "itemAlias": "Item_Records_ETC_Memory_12"
+    },
+    {
+        "reward": "e_tumbler_Data_10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_11",
+        "itemAlias": "Item_Records_ETC_Memory_10"
+    },
+    {
+        "reward": "e_tumbler_Data_11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_12",
+        "itemAlias": "Item_Records_Xion_Passcode_02"
+    },
+    {
+        "reward": "e_tumbler_Data_12",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_13",
+        "itemAlias": "Item_Records_SE06_Memory_11"
+    },
+    {
+        "reward": "e_tumbler_Data_13",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_14",
+        "itemAlias": "Item_Records_ME04_Memory_15"
+    },
+    {
+        "reward": "e_tumbler_Data_14",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_15",
+        "itemAlias": "Item_Records_DED40_Memory_11"
+    },
+    {
+        "reward": "e_tumbler_Data_15",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_16",
+        "itemAlias": "Item_Records_Xion_Passcode_01"
+    },
+    {
+        "reward": "e_tumbler_Data_16",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_17",
+        "itemAlias": "Item_Records_Xion_Passcode_04"
+    },
+    {
+        "reward": "e_tumbler_Data_17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_18",
+        "itemAlias": "Item_Records_Xion_Passcode_05"
+    },
+    {
+        "reward": "e_tumbler_Data_18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_19",
+        "itemAlias": "Item_Records_Xion_Passcode_06"
+    },
+    {
+        "reward": "e_tumbler_Data_19",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_20",
+        "itemAlias": "Item_Records_Xion_Passcode_07"
+    },
+    {
+        "reward": "e_tumbler_Data_20",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "e_tumbler_Data_21",
+        "itemAlias": "Item_Records_Xion_Passcode_09"
+    },
+    {
+        "reward": "e_tumbler_Data_21",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Item_Records_WLB_Memory_40",
+        "itemAlias": "Item_Records_WLB_Memory_40"
+    },
+    {
+        "reward": "Item_Records_WLB_Memory_41",
+        "itemAlias": "Item_Records_WLB_Memory_41"
+    },
+    {
+        "reward": "FishingTest",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishingTest",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishingTest",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishingTest",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColonyDatabank1",
+        "itemAlias": "Fish_GoldFish"
+    },
+    {
+        "reward": "FishColonyDatabank2",
+        "itemAlias": "Fish_Goby"
+    },
+    {
+        "reward": "FishColonyDatabank3",
+        "itemAlias": "Fish_Betta"
+    },
+    {
+        "reward": "FishColonyDatabank4",
+        "itemAlias": "Fish_ButterflyFish"
+    },
+    {
+        "reward": "FishColonyDatabank5",
+        "itemAlias": "Fish_PorcupineFish"
+    },
+    {
+        "reward": "FishColonyDatabank6",
+        "itemAlias": "Fish_FlyingFish"
+    },
+    {
+        "reward": "FishColonyDatabank7",
+        "itemAlias": "Fish_Triggerfish"
+    },
+    {
+        "reward": "FishColonyDatabank8",
+        "itemAlias": "Fish_FootBallfish"
+    },
+    {
+        "reward": "FishColonyDatabank9",
+        "itemAlias": "Fish_SeaBass"
+    },
+    {
+        "reward": "FishColonyDatabank10",
+        "itemAlias": "Fish_mackerel"
+    },
+    {
+        "reward": "FishColonyDatabank11",
+        "itemAlias": "Fish_SeaBream"
+    },
+    {
+        "reward": "FishColonyDatabank12",
+        "itemAlias": "Fish_FancyCarp"
+    },
+    {
+        "reward": "FishColonyDatabank13",
+        "itemAlias": "Fish_ChannelCatfish"
+    },
+    {
+        "reward": "FishColonyDatabank14",
+        "itemAlias": "Fish_Salmon"
+    },
+    {
+        "reward": "FishColonyDatabank15",
+        "itemAlias": "Fish_Mahimahi"
+    },
+    {
+        "reward": "FishColonyDatabank16",
+        "itemAlias": "Fish_Halibut"
+    },
+    {
+        "reward": "FishColonyDatabank17",
+        "itemAlias": "Fish_MolaMola"
+    },
+    {
+        "reward": "FishColonyDatabank18",
+        "itemAlias": "Fish_SailFish"
+    },
+    {
+        "reward": "FishColonyDatabank19",
+        "itemAlias": "Fish_Tuna"
+    },
+    {
+        "reward": "FishColonyDatabank20",
+        "itemAlias": "Fish_Arowana"
+    },
+    {
+        "reward": "FishColonyDatabank21",
+        "itemAlias": "Fish_Pirarucu"
+    },
+    {
+        "reward": "FishColonyDatabank22",
+        "itemAlias": "Fish_GreatWhiteShark"
+    },
+    {
+        "reward": "FishColonyDatabank23",
+        "itemAlias": "Fish_WhaleShark"
+    },
+    {
+        "reward": "FishColonyDatabank24",
+        "itemAlias": "Fish_Dunkleosteus"
+    },
+    {
+        "reward": "FishColonyDatabank25",
+        "itemAlias": "Fish_Lobster"
+    },
+    {
+        "reward": "FishColonyDatabank26",
+        "itemAlias": "Fish_Box1"
+    },
+    {
+        "reward": "FishColonyDatabank27",
+        "itemAlias": "Fish_Box2"
+    },
+    {
+        "reward": "FishColonyDatabank28",
+        "itemAlias": "Fish_Box3"
+    },
+    {
+        "reward": "FishColonyDatabank29",
+        "itemAlias": "Fish_Box4"
+    },
+    {
+        "reward": "Fish_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "SubGroup_Fish_Box1",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "SubGroup_Fish_Box1",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "SubGroup_Fish_Box1",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Fish_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "SubGroup_Fish_Box2",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "SubGroup_Fish_Box2",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "SubGroup_Fish_Box2",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "SubGroup_Fish_Box2",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "SubGroup_Fish_Box2",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "SubGroup_Fish_Box2",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "Fish_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "SubGroup_Fish_Box3",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "SubGroup_Fish_Box3",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "SubGroup_Fish_Box3",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "SubGroup_Fish_Box3",
+        "itemAlias": "Item_Worm_Bait"
+    },
+    {
+        "reward": "SubGroup_Fish_Box3",
+        "itemAlias": "Item_Lure_Weird"
+    },
+    {
+        "reward": "Fish_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Fish_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "SubGroup_Fish_Box4",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "SubGroup_Fish_Box4",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "SubGroup_Fish_Box4",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "SubGroup_Fish_Box4",
+        "itemAlias": "Item_Shrimp_Bait"
+    },
+    {
+        "reward": "SubGroup_SELostBox",
+        "itemAlias": "Gear_LowHpDamageAdditiveRate_Rare"
+    },
+    {
+        "reward": "SubGroup_SELostBox",
+        "itemAlias": "Gear_AdditiveBustSkillDamage_Rare"
+    },
+    {
+        "reward": "SubGroup_SELostBox",
+        "itemAlias": "Can_037"
+    },
+    {
+        "reward": "SubGroup_SELostBox",
+        "itemAlias": "DesignPattern_BS_47"
+    },
+    {
+        "reward": "SubGroup_SELostBox",
+        "itemAlias": "Earring_003"
+    },
+    {
+        "reward": "SubGroup_SELostBox",
+        "itemAlias": "FaceAccessory_002"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Gear_LowHpDamageAdditiveRate_Rare"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Gear_AdditiveBustSkillDamage_Rare"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Can_037"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "DesignPattern_BS_47"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Earring_003"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "FaceAccessory_002"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Gear_LowHpDamageAdditiveRate_Rare_Mk2"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Gear_AdditiveBustSkillDamage_Rare_Mk2"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "DesignPattern_BS_47_Var2"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "Earring_003_Var2"
+    },
+    {
+        "reward": "SubGroup_SELostBox_NGP",
+        "itemAlias": "FaceAccessory_002_Var2"
+    },
+    {
+        "reward": "SubGroup_BS_22_Var2_E",
+        "itemAlias": "DesignPattern_BS_22_Var2"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "StartFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "DefaultFishColony",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "FishColony5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "Quest_Sub_001",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_001",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_001",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "Quest_Sub_001",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Quest_Sub_001",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Quest_Sub_001",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Quest_Sub_005",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_005",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_005",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_005",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Quest_Sub_011",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_011",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_011",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Quest_Sub_011",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_011",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_016",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_016",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_016",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "Quest_Sub_016",
+        "itemAlias": "Item_Worm_Bait"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "BS_30_Var2"
+    },
+    {
+        "reward": "Quest_Sub_002",
+        "itemAlias": "BS_30"
+    },
+    {
+        "reward": "Quest_Sub_006",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_006",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_006",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_006",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Quest_Sub_012",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_012",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_012",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Quest_Sub_012",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_012",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_017",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_017",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_017",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "Quest_Sub_017",
+        "itemAlias": "Item_Shrimp_Bait"
+    },
+    {
+        "reward": "Quest_Sub_007",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_007",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_007",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_007",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Epilogue_Kaya",
+        "itemAlias": "Gear_CriticalValueRate_Rare"
+    },
+    {
+        "reward": "Epilogue_Enya",
+        "itemAlias": "Gear_MeleeRangeDamageReductionRate_Rare"
+    },
+    {
+        "reward": "Epilogue_Digger",
+        "itemAlias": "Gear_AdditiveBetaSkillDamage_Rare"
+    },
+    {
+        "reward": "Quest_Sub_018",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_018",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Quest_Sub_018",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Quest_Sub_018",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Quest_Sub_019",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_019",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Quest_Sub_019",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Quest_Sub_019",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "BS_Bear_Var2"
+    },
+    {
+        "reward": "Quest_Sub_020",
+        "itemAlias": "BS_Bear"
+    },
+    {
+        "reward": "Quest_Sub_021",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_021",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "Quest_Sub_021",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "Quest_Sub_021",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "Quest_Sub_022",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_022",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "Quest_Sub_022",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_022",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "Quest_Sub_023",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_023",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Sub_023",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "Quest_Sub_023",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_024",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_024",
+        "itemAlias": "Item_Special_Bait"
+    },
+    {
+        "reward": "Quest_Sub_024",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "Quest_Sub_024",
+        "itemAlias": "Item_Shrimp_Bait"
+    },
+    {
+        "reward": "Quest_Sub_025",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_025",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Quest_Sub_025",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_025",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_026",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_027",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_027",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_027",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Quest_Sub_027",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_028",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_028",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Quest_Sub_028",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Quest_Sub_028",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_029",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_029",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_029",
+        "itemAlias": "Item_Lure_Weird"
+    },
+    {
+        "reward": "Quest_Sub_029",
+        "itemAlias": "Item_Worm_Bait"
+    },
+    {
+        "reward": "Quest_Sub_030",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_030",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "Quest_Sub_030",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "Quest_Sub_030",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "Quest_Sub_031",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_031",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Quest_Sub_031",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Quest_Sub_031",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_032",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_032",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Sub_032",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_032",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_033",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_033",
+        "itemAlias": "DroneCore"
+    },
+    {
+        "reward": "Quest_Sub_033",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_033",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_034",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_034",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "Quest_Sub_034",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "Quest_Sub_034",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Quest_Sub_035",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_035",
+        "itemAlias": "FishingPoint"
+    },
+    {
+        "reward": "Quest_Sub_035",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "Quest_Sub_035",
+        "itemAlias": "Item_Shrimp_Bait"
+    },
+    {
+        "reward": "Quest_Sub_036",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_036",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_036",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_036",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_037",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_037",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Quest_Sub_037",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Quest_Sub_037",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Quest_Sub_038",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_038",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Sub_038",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "Quest_Sub_038",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "Quest_Sub_039",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_039",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_039",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Quest_Sub_039",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_040",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_040",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "Quest_Sub_040",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_040",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Quest_Sub_041",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_041",
+        "itemAlias": "BodyCore"
+    },
+    {
+        "reward": "Quest_Sub_041",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Quest_Sub_041",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Quest_Sub_042",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Sub_042",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Sub_042",
+        "itemAlias": "SPInitializer"
+    },
+    {
+        "reward": "Quest_Sub_042",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "Quest_Sub_043",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "Quest_Request_001",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_002",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_003",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_003",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_004",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_004",
+        "itemAlias": "RQ_004_Item_Reward"
+    },
+    {
+        "reward": "Quest_Request_005",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_006",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_007",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_008",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_009",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_009",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_010",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_010",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_012",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_013",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_014",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_015",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_015_InteractionReward",
+        "itemAlias": "Earring_008"
+    },
+    {
+        "reward": "Quest_Request_016",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_017",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_017",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_018",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_018",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_019",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_020",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_021",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_021",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_022",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_023",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_023",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_024",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_025",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_026",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_027",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_028",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "Quest_Request_028",
+        "itemAlias": "RQ_AllFishRQ_Item_Reward"
+    },
+    {
+        "reward": "Quest_Request_029",
+        "itemAlias": "BS_26"
+    },
+    {
+        "reward": "Quest_Request_029",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_030",
+        "itemAlias": "BS_33"
+    },
+    {
+        "reward": "Quest_Request_030",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_031",
+        "itemAlias": "BS_55"
+    },
+    {
+        "reward": "Quest_Request_031",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_032",
+        "itemAlias": "BS_53"
+    },
+    {
+        "reward": "Quest_Request_032",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "Quest_Request_033",
+        "itemAlias": "Money_Nikke"
+    },
+    {
+        "reward": "Quest_Request_034",
+        "itemAlias": "Money_Nikke"
+    },
+    {
+        "reward": "Quest_Request_035",
+        "itemAlias": "Money_Nikke"
+    },
+    {
+        "reward": "Quest_Request_036",
+        "itemAlias": "Money_Nikke"
+    },
+    {
+        "reward": "Quest_Request_037",
+        "itemAlias": "Money_Nikke"
+    },
+    {
+        "reward": "Quest_Request_038",
+        "itemAlias": "Money_Nikke"
+    },
+    {
+        "reward": "b_drown_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box4",
+        "itemAlias": "Gear_ComboAttackAdditiveDamage_Common"
+    },
+    {
+        "reward": "b_drown_Box5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box8",
+        "itemAlias": "PT_Combo"
+    },
+    {
+        "reward": "b_drown_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box9",
+        "itemAlias": "EQ_Item_IED"
+    },
+    {
+        "reward": "b_drown_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box12",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box12",
+        "itemAlias": "Gear_AdditiveFixedDamage_Common"
+    },
+    {
+        "reward": "b_drown_Box13",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box14",
+        "itemAlias": "DesignPattern_BS_09_2"
+    },
+    {
+        "reward": "b_drown_Box16",
+        "itemAlias": "PT_Grenade"
+    },
+    {
+        "reward": "b_drown_Box17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box19",
+        "itemAlias": "DroneSeal_002"
+    },
+    {
+        "reward": "b_drown_Box20",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box22",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box23",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box24",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box24",
+        "itemAlias": "Gear_AdditiveBetaSkillDamage_Common"
+    },
+    {
+        "reward": "b_drown_Box25",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box25",
+        "itemAlias": "EQ_DED_Item_CraneAccessKey"
+    },
+    {
+        "reward": "b_drown_Box26",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box26",
+        "itemAlias": "EQ_DED_Item_CraneAccessKey"
+    },
+    {
+        "reward": "b_drown_Box27",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box27",
+        "itemAlias": "EQ_DED_Item_CraneAccessKey"
+    },
+    {
+        "reward": "b_drown_Box28",
+        "itemAlias": "PT_Survive"
+    },
+    {
+        "reward": "b_drown_Box29",
+        "itemAlias": "DesignPattern_BS_38"
+    },
+    {
+        "reward": "b_drown_Box30",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box32",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box33",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box33",
+        "itemAlias": "Gear_AttackSpeed_Common"
+    },
+    {
+        "reward": "b_drown_Box35",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box36",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box37",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box38",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box38",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "b_drown_Box38",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "b_drown_Box38",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "b_drown_Box39",
+        "itemAlias": "DesignPattern_BS_41"
+    },
+    {
+        "reward": "b_drown_Box40",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box41",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box42",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box43",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box44",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box45",
+        "itemAlias": "Earring_001"
+    },
+    {
+        "reward": "b_drown_Box46",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_drown_Box47",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box1",
+        "itemAlias": "Gear_RangeAttackDamageReductionRate_Common"
+    },
+    {
+        "reward": "b_Xion_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box2",
+        "itemAlias": "Gear_LowHpDamageAdditiveRate_Common"
+    },
+    {
+        "reward": "b_Xion_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Xion_Box11",
+        "itemAlias": "BS_Christmas_01"
+    },
+    {
+        "reward": "b_Xion_Box12",
+        "itemAlias": "DroneSeal_Christmas_01"
+    },
+    {
+        "reward": "b_wasteland_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box2",
+        "itemAlias": "DesignPattern_BS_45"
+    },
+    {
+        "reward": "b_wasteland_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box6",
+        "itemAlias": "Gear_KillEnemyHealHP_Common"
+    },
+    {
+        "reward": "b_wasteland_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box10",
+        "itemAlias": "Gear_SPExpAdditiveRate_Common"
+    },
+    {
+        "reward": "b_wasteland_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box12",
+        "itemAlias": "PT_Crowd"
+    },
+    {
+        "reward": "b_wasteland_Box13",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box14",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box15",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box16",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box16",
+        "itemAlias": "Gear_AdditiveFixedDamage_Uncommon"
+    },
+    {
+        "reward": "b_wasteland_Box17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box19",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box21",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box22",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box23",
+        "itemAlias": "DesignPattern_BS_34"
+    },
+    {
+        "reward": "b_wasteland_Box24",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box24",
+        "itemAlias": "Gear_RangeAttackDamageAdditiveRate_Common"
+    },
+    {
+        "reward": "b_wasteland_Box25",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box26",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box27",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box28",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box30",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box31",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box33",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box34",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box35",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box36",
+        "itemAlias": "DesignPattern_BS_44"
+    },
+    {
+        "reward": "b_wasteland_Box37",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box38",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box39",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box39",
+        "itemAlias": "Gear_BetaCrystalAdditiveRate_Common"
+    },
+    {
+        "reward": "b_wasteland_Box40",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box41",
+        "itemAlias": "LilyCostume_003"
+    },
+    {
+        "reward": "b_wasteland_Box42",
+        "itemAlias": "BS_37_Var2"
+    },
+    {
+        "reward": "b_wasteland_Box43",
+        "itemAlias": "PT_Stab"
+    },
+    {
+        "reward": "b_wasteland_Box44",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box45",
+        "itemAlias": "FishingSkillBook4"
+    },
+    {
+        "reward": "b_wasteland_Box45",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "b_wasteland_Box45",
+        "itemAlias": "Item_Special_Bait"
+    },
+    {
+        "reward": "b_wasteland_Box45",
+        "itemAlias": "Item_Lure_Weird"
+    },
+    {
+        "reward": "b_wasteland_Box45",
+        "itemAlias": "FishingSkillBook4_Dummy"
+    },
+    {
+        "reward": "b_wasteland_Box46",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box47",
+        "itemAlias": "PT_Shoot"
+    },
+    {
+        "reward": "b_wasteland_Box48",
+        "itemAlias": "AdamCostume_003"
+    },
+    {
+        "reward": "b_wasteland_Box49",
+        "itemAlias": "DesignPattern_BS_16"
+    },
+    {
+        "reward": "b_wasteland_Box50",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_wasteland_Box51",
+        "itemAlias": "DesignPattern_BS_24_Var2"
+    },
+    {
+        "reward": "b_alteslabor_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_alteslabor_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_alteslabor_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_alteslabor_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_alteslabor_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_alteslabor_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_alteslabor_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box4",
+        "itemAlias": "Gear_MeleeAttackDamageReductionRate_Uncommon"
+    },
+    {
+        "reward": "b_matrix11_Box5",
+        "itemAlias": "DesignPattern_BS_04"
+    },
+    {
+        "reward": "b_matrix11_Box6",
+        "itemAlias": "PT_Guard"
+    },
+    {
+        "reward": "b_matrix11_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box8",
+        "itemAlias": "EQ_Item_IED"
+    },
+    {
+        "reward": "b_matrix11_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box10",
+        "itemAlias": "Gear_CriticalValueRate_Common"
+    },
+    {
+        "reward": "b_matrix11_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box12",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box13",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box14",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box15",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box15",
+        "itemAlias": "Gear_AttackSpeed_Uncommon"
+    },
+    {
+        "reward": "b_matrix11_Box16",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box17",
+        "itemAlias": "EQ_Item_IED"
+    },
+    {
+        "reward": "b_matrix11_Box18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box19",
+        "itemAlias": "PT_Burst"
+    },
+    {
+        "reward": "b_matrix11_Box20",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box21",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box22",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box22",
+        "itemAlias": "EQ_Item_IED"
+    },
+    {
+        "reward": "b_matrix11_Box23",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box24",
+        "itemAlias": "DesignPattern_BS_31"
+    },
+    {
+        "reward": "b_matrix11_Box25",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box27",
+        "itemAlias": "PT_Skill"
+    },
+    {
+        "reward": "b_matrix11_Box28",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box29",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box30",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box31",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box31",
+        "itemAlias": "Gear_AdditiveBustSkillDamage_Common"
+    },
+    {
+        "reward": "b_matrix11_Box32",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box33",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box34",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box34",
+        "itemAlias": "Gear_ShieldAttackPowerRate_Uncommon"
+    },
+    {
+        "reward": "b_matrix11_Box35",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box36",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box37",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_matrix11_Box38",
+        "itemAlias": "DesignPattern_BS_13"
+    },
+    {
+        "reward": "b_matrix11_Box39",
+        "itemAlias": "Earring_002"
+    },
+    {
+        "reward": "b_matrix11_Box40",
+        "itemAlias": "AdamCostume_004"
+    },
+    {
+        "reward": "b_matrix11_Box41",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box6",
+        "itemAlias": "PT_Down"
+    },
+    {
+        "reward": "b_desert_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box12",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box13",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box14",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box14",
+        "itemAlias": "Gear_RangeAttackDamageReductionRate_Uncommon"
+    },
+    {
+        "reward": "b_desert_Box15",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box16",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box18",
+        "itemAlias": "Gear_SPExpAdditiveRate_Rare"
+    },
+    {
+        "reward": "b_desert_Box19",
+        "itemAlias": "DesignPattern_BS_Black_Leather_bikini"
+    },
+    {
+        "reward": "b_desert_Box20",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box21",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box22",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box23",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box24",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box24",
+        "itemAlias": "Gear_ComboAttackAdditiveDamage_Uncommon"
+    },
+    {
+        "reward": "b_desert_Box25",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box27",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "DesignPattern_BS_40"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "b_desert_Box28",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "b_desert_Box_RQ13",
+        "itemAlias": "BS_20"
+    },
+    {
+        "reward": "b_desert_Box30",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box32",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box33",
+        "itemAlias": "LilyCostume_004"
+    },
+    {
+        "reward": "b_desert_Box34",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box35",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box36",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box37",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box37",
+        "itemAlias": "SQ_037_Item_FusionCell"
+    },
+    {
+        "reward": "b_desert_Box38",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box39",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box40",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box41",
+        "itemAlias": "DesignPattern_BS_Sailor_Jean"
+    },
+    {
+        "reward": "b_desert_Box42",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box43",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box44",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box45",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box46",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box47",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box48",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box48",
+        "itemAlias": "Gear_RangeAttackDamageAdditiveRate_Uncommon"
+    },
+    {
+        "reward": "b_desert_Box49",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box50",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box51",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box52",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box53",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_desert_Box54",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box55",
+        "itemAlias": "PT_Recovery"
+    },
+    {
+        "reward": "b_desert_Box56",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box57",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_desert_Box57",
+        "itemAlias": "Gear_BetaCrystalAdditiveRate_Rare"
+    },
+    {
+        "reward": "b_abysslabor_Box1",
+        "itemAlias": "DesignPattern_BS_Yellow_Suit_Jacket"
+    },
+    {
+        "reward": "b_abysslabor_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_abysslabor_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box1",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box5",
+        "itemAlias": "DesignPattern_BS_Default_Var2"
+    },
+    {
+        "reward": "b_Eidos9_Box5",
+        "itemAlias": "DesignPattern_BS_Default"
+    },
+    {
+        "reward": "b_Eidos9_Box5",
+        "itemAlias": "DesignPattern_BS_Default_Var3"
+    },
+    {
+        "reward": "b_Eidos9_Box5",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "b_Eidos9_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box10",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box12",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box13",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box14",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box15",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box16",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box19",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box20",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box21",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box22",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box23",
+        "itemAlias": "DesignPattern_BS_42"
+    },
+    {
+        "reward": "b_Eidos9_Box24",
+        "itemAlias": "DesignPattern_BS_White_Jean"
+    },
+    {
+        "reward": "b_Eidos9_Box25",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box26",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_Eidos9_Box26",
+        "itemAlias": "Gear_KillEnemyAdditiveDamageRate_Rare"
+    },
+    {
+        "reward": "b_Eidos9_Box27",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box1",
+        "itemAlias": "DroneSeal_004"
+    },
+    {
+        "reward": "b_elevator_Box2",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box2",
+        "itemAlias": "Gear_HighHpDamageAdditiveRate_Rare"
+    },
+    {
+        "reward": "b_elevator_Box3",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box4",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box5",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box5",
+        "itemAlias": "Gear_MeleeAttackDamageReductionRate_Rare"
+    },
+    {
+        "reward": "b_elevator_Box6",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box7",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box8",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box9",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box10",
+        "itemAlias": "DesignPattern_BS_07"
+    },
+    {
+        "reward": "b_elevator_Box11",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box11",
+        "itemAlias": "Gear_GainBetaGaugeValueOnDamaged_Rare"
+    },
+    {
+        "reward": "b_elevator_Box12",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box13",
+        "itemAlias": "PT_Tachy"
+    },
+    {
+        "reward": "b_elevator_Box14",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box15",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box16",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box17",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box18",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box18",
+        "itemAlias": "Gear_BurstGaugeAdditiveRate_Rare"
+    },
+    {
+        "reward": "b_elevator_Box19",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box20",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box21",
+        "itemAlias": "DesignPattern_BS_37"
+    },
+    {
+        "reward": "b_elevator_Box22",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box23",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box24",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box25",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box26",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box27",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box28",
+        "itemAlias": "FaceAccessory_002"
+    },
+    {
+        "reward": "b_elevator_Box29",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box30",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box31",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box32",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box33",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box34",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box35",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box35",
+        "itemAlias": "Gear_LowHpDamageAdditiveRate_Rare"
+    },
+    {
+        "reward": "b_elevator_Box36",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box37",
+        "itemAlias": "Earring_003"
+    },
+    {
+        "reward": "b_elevator_Box38",
+        "itemAlias": "None"
+    },
+    {
+        "reward": "b_elevator_Box38",
+        "itemAlias": "Gear_AdditiveBustSkillDamage_Rare"
+    },
+    {
+        "reward": "b_elevator_Box39",
+        "itemAlias": "DesignPattern_BS_15"
+    },
+    {
+        "reward": "b_elevator_Box40",
+        "itemAlias": "DesignPattern_BS_47"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "LilyCostume_002"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "AdamCostume_002"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "DroneSeal_003"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "BetaCrystal"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "SkillPoint"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "FaceAccessory_012"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "Earring_011"
+    },
+    {
+        "reward": "b_DeluxeEdition_Box",
+        "itemAlias": "BS_01_Var2"
+    },
+    {
+        "reward": "b_PreOrder_Box",
+        "itemAlias": "FaceAccessory_003"
+    },
+    {
+        "reward": "b_PreOrder_Box",
+        "itemAlias": "Earring_005"
+    },
+    {
+        "reward": "b_PreOrder_Box",
+        "itemAlias": "BS_Default_Var3"
+    },
+    {
+        "reward": "b_PreOrder_Box",
+        "itemAlias": "ETC_Item_VendingMachineCoin"
+    },
+    {
+        "reward": "b_CompleteEdition_Box",
+        "itemAlias": "DroneSeal_005"
+    },
+    {
+        "reward": "b_CompleteEdition_Box",
+        "itemAlias": "BS_99"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "HighDensityWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Records_LockedBox_Material",
+        "itemAlias": "2DQuantumWafer"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ElastomerFiber"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "PolymerOrganicFilm"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Records_LockedBox_CostumeMaterial",
+        "itemAlias": "ECelluloseRayon"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Normal"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Scatter"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Explosive"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Missile"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "Records_LockedBox_Bullet",
+        "itemAlias": "Bullet_Railgun"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "PulseGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "ConcussionGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "TrapGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Grenade",
+        "itemAlias": "FlashGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Records_LockedBox_Potion",
+        "itemAlias": "HP_Potion"
+    },
+    {
+        "reward": "Records_LockedBox_Potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Records_LockedBox_Potion",
+        "itemAlias": "HP_Potion_Small"
+    },
+    {
+        "reward": "Records_LockedBox_Potion",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_Potion",
+        "itemAlias": "HealGrenade"
+    },
+    {
+        "reward": "Records_LockedBox_DroneCore",
+        "itemAlias": "DroneCore"
+    },
+    {
+        "reward": "Records_LockedBox_GearCore",
+        "itemAlias": "GearCore"
+    },
+    {
+        "reward": "Records_LockedBox_WBPump",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "Records_LockedBox_WBPump",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "Records_LockedBox_WBPump",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "Records_LockedBox_WBPump",
+        "itemAlias": "ResurrectionItem"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_A"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_B"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Records_LockedBox_JunkIron",
+        "itemAlias": "Money_JunkIron_C"
+    },
+    {
+        "reward": "Records_LockedBox_Item_Lure_Megabait",
+        "itemAlias": "Item_Lure_Megabait"
+    },
+    {
+        "reward": "Records_LockedBox_Item_Lure_Megabait",
+        "itemAlias": "Item_Fish_Slice_Bait"
+    },
+    {
+        "reward": "Records_LockedBox_Item_Lure_Megabait",
+        "itemAlias": "Item_Special_Bait"
+    },
+    {
+        "reward": "Records_LockedBox_Item_Lure_Megabait",
+        "itemAlias": "Item_Lure_Weird"
+    },
+    {
+        "reward": "Can_001_RewardGroup",
+        "itemAlias": "Can_001"
+    },
+    {
+        "reward": "Can_002_RewardGroup",
+        "itemAlias": "Can_002"
+    },
+    {
+        "reward": "Can_003_RewardGroup",
+        "itemAlias": "Can_003"
+    },
+    {
+        "reward": "Can_004_RewardGroup",
+        "itemAlias": "Can_004"
+    },
+    {
+        "reward": "Can_005_RewardGroup",
+        "itemAlias": "Can_005"
+    },
+    {
+        "reward": "Can_006_RewardGroup",
+        "itemAlias": "Can_006"
+    },
+    {
+        "reward": "Can_007_RewardGroup",
+        "itemAlias": "Can_007"
+    },
+    {
+        "reward": "Can_008_RewardGroup",
+        "itemAlias": "Can_008"
+    },
+    {
+        "reward": "Can_009_RewardGroup",
+        "itemAlias": "Can_009"
+    },
+    {
+        "reward": "Can_010_RewardGroup",
+        "itemAlias": "Can_010"
+    },
+    {
+        "reward": "Can_011_RewardGroup",
+        "itemAlias": "Can_011"
+    },
+    {
+        "reward": "Can_012_RewardGroup",
+        "itemAlias": "Can_012"
+    },
+    {
+        "reward": "Can_013_RewardGroup",
+        "itemAlias": "Can_013"
+    },
+    {
+        "reward": "Can_014_RewardGroup",
+        "itemAlias": "Can_014"
+    },
+    {
+        "reward": "Can_015_RewardGroup",
+        "itemAlias": "Can_015"
+    },
+    {
+        "reward": "Can_016_RewardGroup",
+        "itemAlias": "Can_016"
+    },
+    {
+        "reward": "Can_017_RewardGroup",
+        "itemAlias": "Can_017"
+    },
+    {
+        "reward": "Can_018_RewardGroup",
+        "itemAlias": "Can_018"
+    },
+    {
+        "reward": "Can_019_RewardGroup",
+        "itemAlias": "Can_019"
+    },
+    {
+        "reward": "Can_020_RewardGroup",
+        "itemAlias": "Can_020"
+    },
+    {
+        "reward": "Can_021_RewardGroup",
+        "itemAlias": "Can_021"
+    },
+    {
+        "reward": "Can_022_RewardGroup",
+        "itemAlias": "Can_022"
+    },
+    {
+        "reward": "Can_023_RewardGroup",
+        "itemAlias": "Can_023"
+    },
+    {
+        "reward": "Can_024_RewardGroup",
+        "itemAlias": "Can_024"
+    },
+    {
+        "reward": "Can_025_RewardGroup",
+        "itemAlias": "Can_025"
+    },
+    {
+        "reward": "Can_026_RewardGroup",
+        "itemAlias": "Can_026"
+    },
+    {
+        "reward": "Can_027_RewardGroup",
+        "itemAlias": "Can_027"
+    },
+    {
+        "reward": "Can_028_RewardGroup",
+        "itemAlias": "Can_028"
+    },
+    {
+        "reward": "Can_029_RewardGroup",
+        "itemAlias": "Can_029"
+    },
+    {
+        "reward": "Can_030_RewardGroup",
+        "itemAlias": "Can_030"
+    },
+    {
+        "reward": "Can_031_RewardGroup",
+        "itemAlias": "Can_031"
+    },
+    {
+        "reward": "Can_032_RewardGroup",
+        "itemAlias": "Can_032"
+    },
+    {
+        "reward": "Can_033_RewardGroup",
+        "itemAlias": "Can_033"
+    },
+    {
+        "reward": "Can_034_RewardGroup",
+        "itemAlias": "Can_034"
+    },
+    {
+        "reward": "Can_035_RewardGroup",
+        "itemAlias": "Can_035"
+    },
+    {
+        "reward": "Can_036_RewardGroup",
+        "itemAlias": "Can_036"
+    },
+    {
+        "reward": "Can_037_RewardGroup",
+        "itemAlias": "Can_037"
+    },
+    {
+        "reward": "Can_038_RewardGroup",
+        "itemAlias": "Can_038"
+    },
+    {
+        "reward": "Can_039_RewardGroup",
+        "itemAlias": "Can_039"
+    },
+    {
+        "reward": "Can_040_RewardGroup",
+        "itemAlias": "Can_040"
+    },
+    {
+        "reward": "Can_041_RewardGroup",
+        "itemAlias": "Can_041"
+    },
+    {
+        "reward": "Can_042_RewardGroup",
+        "itemAlias": "Can_042"
+    },
+    {
+        "reward": "Can_043_RewardGroup",
+        "itemAlias": "Can_043"
+    },
+    {
+        "reward": "Can_044_RewardGroup",
+        "itemAlias": "Can_044"
+    },
+    {
+        "reward": "Can_045_RewardGroup",
+        "itemAlias": "Can_045"
+    },
+    {
+        "reward": "Can_046_RewardGroup",
+        "itemAlias": "Can_046"
+    },
+    {
+        "reward": "Can_047_RewardGroup",
+        "itemAlias": "Can_047"
+    },
+    {
+        "reward": "Can_048_RewardGroup",
+        "itemAlias": "Can_048"
+    },
+    {
+        "reward": "Can_049_RewardGroup",
+        "itemAlias": "Can_049"
+    },
+    {
+        "reward": "Money_Nier_RewardGroup",
+        "itemAlias": "Money_Nier"
+    },
+    {
+        "reward": "Christmas_Hair_01", 
+        "itemAlias": "Hair_Christmas_01"
+    },
+    {
+        "reward": "Christmas_Earring_01",
+        "itemAlias": "Earring_Christmas_01"
+    },
+    {
+        "reward": "Christmas_Earring_02",
+        "itemAlias": "Earring_Christmas_02"
+    },
+    {
+        "reward": "Christmas_FaceAccessory_01",
+        "itemAlias": "FaceAccessory_Christmas_01"
+    },
+    {
+        "reward": "Christmas_Adam",
+        "itemAlias": "AdamCostume_Christmas_01"
+    },
+    {
+        "reward": "TurntableMusicBundle",
+        "itemAlias": "TurntableMusicBundle"
+    },
+    {
+        "reward": "Nikke_LostItem_Rapi",
+        "itemAlias": "Nikke_LostItem_Rapi"
+    },
+    {
+        "reward": "Nikke_LostItem_Anis",
+        "itemAlias": "Nikke_LostItem_Anis"
+    },
+    {
+        "reward": "Nikke_LostItem_Dorothy",
+        "itemAlias": "Nikke_LostItem_Dorothy"
+    },
+    {
+        "reward": "Nikke_LostItem_Alice",
+        "itemAlias": "Nikke_LostItem_Alice"
+    },
+    {
+        "reward": "Nikke_LostItem_Modernia",
+        "itemAlias": "Nikke_LostItem_Modernia"
+    },
+    {
+        "reward": "Nikke_Dororong_PhotomodeSticker",
+        "itemAlias": "Nikke_PhotomodeSitcker_Dororong"
+    },
+    {
+        "reward": "Nikke_Potion",
+        "itemAlias": "Potion_Nikke"
+    },
+    {
+        "reward": "TestShowReward1",
+        "itemAlias": "LowDensityWafer"
+    },
+    {
+        "reward": "TestShowReward2",
+        "itemAlias": "HP_Potion"
+    }
+]
