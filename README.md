@@ -46,13 +46,23 @@ xmake project -k vsxmake2022
 ## 📁 **Mods in this Repository**
 
 ### `WuChangMod`
-Advanced ImGui-based cheat/trainer mod featuring:
+Advanced ImGui-based cheat mod featuring:
 - ✅ ImGui user interface with collapsible sections
 - ✅ Lua script integration and execution
 - ✅ Player cheats (one-hit kills, money, skill points)
 - ✅ Item unlocks (gems, tools, equipment, enchants)
 - ✅ Save game manipulation capabilities
 - ✅ Clean helper functions for mod interaction
+
+### `StellarBladeMod`
+Comprehensive Stellar Blade cheat mod featuring:
+- ✅ ImGui-based rewards system (currency, materials, items)
+- ✅ Fast travel to all 89 game locations
+- ✅ Shop access from anywhere (16 different shops)
+- ✅ Trophy/achievement management
+- ✅ Player cheats (infinite jump, god mode, skill points)
+- ✅ Lua script integration for enhanced functionality
+- ✅ Complete rewards database (7,610+ items)
 
 ### `NewModExample` 
 Clean C++ starter template featuring:
@@ -81,7 +91,8 @@ Clean C++ starter template featuring:
 4. **Add to root** `xmake.lua`:
    ```lua
    includes("RE-UE4SS")
-   includes("WuChangMod") 
+   includes("WuChangMod")
+   includes("StellarBladeMod") 
    includes("YourModName")  -- Add this line
    ```
 5. **Regenerate** Visual Studio solution:

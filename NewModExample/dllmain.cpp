@@ -82,12 +82,12 @@ public:
 #define NEW_MOD_EXAMPLE_MOD_API __declspec(dllexport)
 extern "C"
 {
-    MY_AWESOME_MOD_API RC::CppUserModBase* start_mod()
+    NEW_MOD_EXAMPLE_MOD_API RC::CppUserModBase* start_mod()
     {
         return new NewModExampleMod();
     }
 
-    MY_AWESOME_MOD_API void uninstall_mod(RC::CppUserModBase* mod)
+    NEW_MOD_EXAMPLE_MOD_API void uninstall_mod(RC::CppUserModBase* mod)
     {
         delete mod;
     }
