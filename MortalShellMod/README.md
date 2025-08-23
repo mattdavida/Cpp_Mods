@@ -73,7 +73,7 @@ Perfect for players who want professional-grade modding tools with immediate vis
 
 ### Basic Usage
 ```
-Open UE4SS Console: F10 (default) or configured key
+Open UE4SS GUI
 Navigate to: "Weapons Mod" or "Player Mods" tabs
 Use organized sections: Expand/collapse features as needed
 Monitor status: Real-time indicators show active features
