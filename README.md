@@ -15,6 +15,8 @@ This repository contains C++ mods for Unreal Engine games using the UE4SS (Unrea
 Cpp_Mods/
 ├── RE-UE4SS/              # ⚠️ Install UE4SS framework here
 ├── WuChangMod/            # 🎯 Advanced ImGui-based mod with Lua integration
+├── StellarBladeMod/       # ⭐ Comprehensive rewards & fast travel system
+├── MortalShellMod/        # ⚔️ Professional dual-tab enhancement suite
 ├── NewModExample/         # 📝 Clean C++ template for new mods
 ├── build-sln.ps1          # 🔧 PowerShell script to generate VS solution
 ├── xmake.lua              # 🏗️ Main build configuration
@@ -63,6 +65,17 @@ Comprehensive Stellar Blade cheat mod featuring:
 - ✅ Player cheats (infinite jump, god mode, skill points)
 - ✅ Lua script integration for enhanced functionality
 - ✅ Complete rewards database (7,610+ items)
+
+### `MortalShellMod`
+Professional dual-tab enhancement suite for Mortal Shell featuring:
+- ✅ **Dual-Tab Architecture** - Weapons & Player Mods cleanly separated
+- ✅ **Real-Time Status Dashboard** - Live ON/OFF indicators for all features
+- ✅ **Instant Weapon Switching** - All 6 weapons accessible anywhere (bypass weapon rack)
+- ✅ **Combat Enhancements** - Super Balistazooka, stone form mastery, enhanced parry
+- ✅ **Movement & Progression** - 5x walk speed, unlimited stamina, inventory maxing
+- ✅ **Visual Feedback System** - 3-second contextual notifications under each button
+- ✅ **Complete Lua Integration** - C++ UI with Lua backend for game modifications
+- ✅ **Backwards Compatible** - All F1-F9 legacy hotkeys preserved
 
 ### `NewModExample` 
 Clean C++ starter template featuring:

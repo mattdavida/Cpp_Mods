@@ -7,7 +7,6 @@
 [![Game](https://img.shields.io/badge/game-Mortal%20Shell-darkred.svg)](https://mortalshell.com/)
 [![ImGui](https://img.shields.io/badge/UI-ImGui-orange.svg)](https://github.com/ocornut/imgui)
 
-![Professional Dual-Tab Interface](https://github.com/user-attachments/assets/your-screenshot-here)
 *Professional dual-tab interface with real-time status indicators and organized collapsible sections*
 
 ## 🎯 Overview
