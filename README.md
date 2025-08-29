@@ -17,7 +17,9 @@ Cpp_Mods/
 ├── WuChangMod/            # 🎯 Advanced ImGui-based mod with Lua integration
 ├── StellarBladeMod/       # ⭐ Comprehensive rewards & fast travel system
 ├── MortalShellMod/        # ⚔️ Professional dual-tab enhancement suite
+├── MGSMod/                # 🐍 Complete collection unlocker for MGS Delta
 ├── NewModExample/         # 📝 Clean C++ template for new mods
+├── UE4SSUtils.hpp/.cpp    # 🛠️ Shared utility library for UE4SS modding
 ├── build-sln.ps1          # 🔧 PowerShell script to generate VS solution
 ├── xmake.lua              # 🏗️ Main build configuration
 ├── .gitignore             # 📝 Git exclusion rules
@@ -33,7 +35,7 @@ Cpp_Mods/
 xmake
 
 # Build specific mod
-xmake build WuChangeMod
+xmake build MGSMod
 ```
 
 ### Generating Visual Studio Solution
@@ -77,6 +79,18 @@ Professional dual-tab enhancement suite for Mortal Shell featuring:
 - ✅ **Complete Lua Integration** - C++ UI with Lua backend for game modifications
 - ✅ **Backwards Compatible** - All F1-F9 legacy hotkeys preserved
 
+### `MGSMod` 
+Game-changing complete collection unlocker for Metal Gear Solid Delta featuring:
+- ✅ **Save Game Manipulation** - Direct memory modification of save data structures
+- ✅ **Complete Unlock System** - All camouflage, face paint, and collection items
+- ✅ **Secret Content Access** - Guy Savage, Character Viewer, Demo Theater, Secret Theater
+- ✅ **Collectibles Manager** - Instant unlock of all Kerotan frogs and Gako lizards
+- ✅ **Achievement Integration** - Steam achievement unlock functionality (optional)
+- ✅ **Equipment Control** - Direct item equipping (Stealth Camo, AT Camo)
+- ✅ **Difficulty Unlocks** - European Extreme mode access
+- ✅ **Professional UI** - Clean ImGui interface with tooltips and notifications
+- ✅ **UE4SS Compatibility** - Includes custom GUObjectArray signature for UE5.3
+
 ### `NewModExample` 
 Clean C++ starter template featuring:
 - ✅ Proper UE4SS integration
@@ -85,6 +99,45 @@ Clean C++ starter template featuring:
 - ✅ Object discovery examples
 - ✅ Professional logging with UE4SS Output system
 - ✅ Game-specific object finding (PlayerController examples)
+
+## 🛠️ **UE4SSUtils - Shared Utility Library**
+
+The `UE4SSUtils.hpp/.cpp` files provide a **battle-tested utility library** for UE4SS C++ modding, developed through extensive work across multiple games (MGS Delta, Stellar Blade, Mortal Shell).
+
+### **Key Features:**
+- ✅ **Live View Property Access** - Replicates UE4SS Live View's reliable property inspection
+- ✅ **Deferred Console Execution** - Safe ProcessConsoleExec with proper game thread hooks
+- ✅ **Object Discovery System** - Reliable player/object finding with validation
+- ✅ **TArray Manipulation** - Direct memory access to Unreal Engine arrays
+- ✅ **Struct TMap Access** - Template function for nested save game data structures
+- ✅ **Type Conversion Helpers** - String/WString utilities for UE integration
+
+### **Usage Example:**
+```cpp
+#include "UE4SSUtils.hpp"
+
+// Initialize in your mod
+UE4SSUtils::Initialize();
+
+// Find objects
+auto player = UE4SSUtils::FindPlayer("AGsrPlayer");
+
+// Access properties
+auto result = UE4SSUtils::GetProperty(saveGame, "CamouflageList");
+
+// Execute commands safely
+UE4SSUtils::ExecuteConsoleCommand("SetCurrentItemId 23", equipController);
+
+// Access nested struct TMaps
+auto* mapPtr = UE4SSUtils::GetStructTMapProperty<ERewardType, bool>(
+    saveGame, "RewardsData", "RewardsGained");
+```
+
+### **Design Philosophy:**
+- **Reliability First** - Based on patterns that work consistently across games
+- **Live View Approach** - Mirrors UE4SS's most stable object inspection methods
+- **Deferred Execution** - Prevents crashes through proper game thread timing
+- **Battle-Tested** - Proven in production mods with thousands of downloads
 
 ## 🛠 **Creating New Mods**
 
@@ -101,19 +154,27 @@ Clean C++ starter template featuring:
        ModDescription = STR("Your description");
        ModAuthors = STR("Your name");
    ```
-4. **Add to root** `xmake.lua`:
+4. **Include UE4SSUtils** for advanced functionality:
+   ```cpp
+   #include "UE4SSUtils.hpp"  // Add to your includes
+   
+   // Initialize in on_unreal_init()
+   UE4SSUtils::Initialize();
+   ```
+5. **Add to root** `xmake.lua`:
    ```lua
    includes("RE-UE4SS")
    includes("WuChangMod")
    includes("StellarBladeMod") 
+   includes("MGSMod")
    includes("YourModName")  -- Add this line
    ```
-5. **Regenerate** Visual Studio solution:
+6. **Regenerate** Visual Studio solution:
    ```bash
    xmake project -k vsxmake2022
    ```
-6. **Open** `vsxmake2022/cpp_mods.sln` in Visual Studio
-7. **Start coding** your mod functionality!
+7. **Open** `vsxmake2022/cpp_mods.sln` in Visual Studio
+8. **Start coding** your mod functionality!
 
 ## 📚 **Useful Resources**
 
